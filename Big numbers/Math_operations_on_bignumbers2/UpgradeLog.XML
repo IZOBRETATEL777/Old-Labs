@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Math_operations_on_bignumbers2">
+</Property><Property Name="Файл решения" Value="C:\Documents and Settings\Толстошеев Роман\Мои документы\Visual Studio 2010\Projects\Math_operations_on_bignumbers2\Math_operations_on_bignumbers2.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Documents and Settings\Толстошеев Роман\Мои документы\Visual Studio 2010\Projects\Math_operations_on_bignumbers2\Math_operations_on_bignumbers2.suo">
+</Property><Property Name="Date" Value="22 июля 2017 г.">
+</Property><Property Name="Time" Value="13:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Math_operations_on_bignumbers2.sln" Description="Успешно создана резервная копия файла C:\Documents and Settings\Толстошеев Роман\Мои документы\Visual Studio 2010\Projects\Math_operations_on_bignumbers2\Math_operations_on_bignumbers2.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Math_operations_on_bignumbers2.suo" Description="Успешно создана резервная копия файла C:\Documents and Settings\Толстошеев Роман\Мои документы\Visual Studio 2010\Projects\Math_operations_on_bignumbers2\Math_operations_on_bignumbers2.suo.old">
+</Event><Event ErrorLevel="0" Project="Math_operations_on_bignumbers2" Source="Math_operations_on_bignumbers2\Math_operations_on_bignumbers2.vcproj" Description="Converting project file 'C:\Documents and Settings\Толстошеев Роман\Мои документы\Visual Studio 2010\Projects\Math_operations_on_bignumbers2\Math_operations_on_bignumbers2\Math_operations_on_bignumbers2.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Math_operations_on_bignumbers2" Source="Math_operations_on_bignumbers2\Math_operations_on_bignumbers2.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Math_operations_on_bignumbers2" Source="Math_operations_on_bignumbers2\Math_operations_on_bignumbers2.vcproj" Description="Done converting to new project file 'C:\Documents and Settings\Толстошеев Роман\Мои документы\Visual Studio 2010\Projects\Math_operations_on_bignumbers2\Math_operations_on_bignumbers2\Math_operations_on_bignumbers2.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Math_operations_on_bignumbers2" Source="Math_operations_on_bignumbers2\Math_operations_on_bignumbers2.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Math_operations_on_bignumbers2.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Math_operations_on_bignumbers2.sln" Description="Converted">
+</Event></UpgradeLog>

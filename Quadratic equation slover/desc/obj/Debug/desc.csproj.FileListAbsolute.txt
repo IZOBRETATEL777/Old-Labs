@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2017\Projects\desc\desc\obj\Debug\desc.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\desc\desc\obj\Debug\desc.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\desc\desc\obj\Debug\desc.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\desc\desc\obj\Debug\desc.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\desc\desc\bin\Debug\desc.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\desc\desc\bin\Debug\desc.exe
+C:\Users\User\documents\visual studio 2017\Projects\desc\desc\bin\Debug\desc.pdb
+C:\Users\User\documents\visual studio 2017\Projects\desc\desc\obj\Debug\desc.exe
+C:\Users\User\documents\visual studio 2017\Projects\desc\desc\obj\Debug\desc.pdb
+C:\Users\User\documents\visual studio 2017\Projects\desc\desc\obj\Debug\desc.AboutBox1.resources

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Math_operations_on_bignumbers2", "Math_operations_on_bignumbers2\Math_operations_on_bignumbers2.vcproj", "{36768F0F-1CD3-421C-9374-5BD9155C757A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36768F0F-1CD3-421C-9374-5BD9155C757A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{36768F0F-1CD3-421C-9374-5BD9155C757A}.Debug|Win32.Build.0 = Debug|Win32
+		{36768F0F-1CD3-421C-9374-5BD9155C757A}.Release|Win32.ActiveCfg = Release|Win32
+		{36768F0F-1CD3-421C-9374-5BD9155C757A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

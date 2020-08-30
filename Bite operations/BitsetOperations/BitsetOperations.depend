@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510822627 source:c:\users\user\documents\projects\bitsetoperations\main.cpp
+	<iostream>
+	<algorithm>
+	<bitset>
+
